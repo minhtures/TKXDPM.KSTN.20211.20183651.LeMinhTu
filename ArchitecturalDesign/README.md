@@ -4,3 +4,5 @@
 - Place Order
 - Place Rush Order
 
+Each UC included 3 diagrams: Class diagram, Sequence diagram, Communication diagram
+File ClassDiagram combined  3 class diagram.
