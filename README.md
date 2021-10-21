@@ -1,6 +1,6 @@
 # TKXDPM.KSTN.20211.20183651.LeMinhTu
 TKXDPM.KSTN.20211
-# LAB 00 - Architectural Design
+# LAB 01 - Architectural Design
 ## Task
 Class diagram, Sequence diagram, Communication diagram for 3 UC: Place Order, Pay Order and Place Rush Order of the Case Study AIMS.
 
