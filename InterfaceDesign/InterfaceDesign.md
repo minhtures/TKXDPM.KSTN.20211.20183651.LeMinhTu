@@ -3,10 +3,11 @@
 - Screen flow diagram
 - Subsystem Design: Interbank
 - GUI design: 
-+ Splash Screen
-+ Home screen
-+ View cart screen
-+ Delivery Form
-+ Payment Screen
-+ Rush Order List
-+ Notify Success screen
+    + Splash Screen
+    + Home screen
+    + View cart screen
+    + Delivery Form
+    + Invoice Screen
+    + Payment Screen
+    + Rush Order List
+    + Notify Success screen
