@@ -1,0 +1,2 @@
+Class APi có 2 phương thức get và post có nhiều điểm chung, đó chính là 2 phần kết nối và phần đọc dữ liệu từ server.
+=> tạo thành 2 method mới là setUpConnection và readRespone (được thể hiện lại tại file API_refactor.java)
