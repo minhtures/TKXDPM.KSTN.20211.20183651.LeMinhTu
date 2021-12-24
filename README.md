@@ -1,5 +1,15 @@
 # TKXDPM.KSTN.20211.20183651.LeMinhTu
 TKXDPM.KSTN.20211
+
+# Lab05: Design Pattern
+## Design Concept:
+- Review mức độ Cohesion và Coupling của module PlaceRushOrder
+## Data Principle
+- Review design theo SOLID
+
+## Sửa đổi:
+Các sự thay đổi về thiết kế đã được thể hiện trong báo cáo. Source code được thể hiện trong file riêng
+
 # Lab04: Programming & Test
 ## Unit test
 - Thiết kế test case
